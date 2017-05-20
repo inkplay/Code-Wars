@@ -1,2 +1,2 @@
 # Code-Wars
-Solutions from Code Wars practice
+Solutions from Python 3 related Code Wars practice
